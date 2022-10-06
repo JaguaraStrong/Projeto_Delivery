@@ -43,7 +43,7 @@
             </TextField>
             <ImageView fitHeight="200.0" fitWidth="200.0">
                <image>
-                  <Image url="@../esdeath.jpg" />
+                  <Image url="@../imagem1.png" />
                </image>
                <VBox.margin>
                   <Insets left="160.0" top="30.0" />
