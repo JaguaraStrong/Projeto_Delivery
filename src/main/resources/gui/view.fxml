@@ -24,7 +24,7 @@
       <Label layoutX="246.0" layoutY="76.0" text="Resultado = " />
       <ImageView fitHeight="136.0" fitWidth="147.0" layoutX="236.0" layoutY="111.0">
          <image>
-            <Image url="@../imagem1.png" />
+            <Image url="@../esdeath.jpg" />
          </image>
       </ImageView>
       <ComboBox fx:id="combo1" layoutX="8.0" layoutY="295.0" onAction="#onComboBoxPersonAction" prefWidth="150.0" promptText="Select a person" />
