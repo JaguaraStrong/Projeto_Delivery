@@ -26,7 +26,11 @@
             </TextField>
             <ImageView fitHeight="388.0" fitWidth="365.0" preserveRatio="true" translateX="-65.0">
                <image>
+<<<<<<< HEAD
                   <Image url="@../logo1.png" />
+=======
+                  <Image url="@../imagem1.png" />
+>>>>>>> cffca829242f2e92d40368af96decade613618a3
                </image>
                <VBox.margin>
                   <Insets left="160.0" top="30.0" />
