@@ -5,8 +5,8 @@
 <?import javafx.scene.control.TextArea?>
 <?import javafx.scene.layout.VBox?>
 
-<<<<<<< HEAD
-<VBox prefHeight="519.0" prefWidth="693.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="senac.senacfx.controller.AboutController">
+HEAD
+<VBox> prefHeight="519.0" prefWidth="693.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="senac.senacfx.controller.AboutController">
    <children>
       <CheckBox mnemonicParsing="false" onMouseClicked="#onSelectedBox1" text="Sabor1" />
       <CheckBox layoutX="27.0" layoutY="27.0" mnemonicParsing="false" onMouseClicked="#onSelectedBox2" text="Sabor2" />
@@ -52,5 +52,5 @@
          </padding>
       </TextArea>
          </children>
->>>>>>> cffca829242f2e92d40368af96decade613618a3
-</VBox>
+
+</VBox >

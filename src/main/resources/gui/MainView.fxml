@@ -26,7 +26,7 @@
             </TextField>
             <ImageView fitHeight="388.0" fitWidth="365.0" preserveRatio="true" translateX="-65.0">
                <image>
-<<<<<<< HEAD
+HEAD
                   <Image url="@../logo1.png" />
 =======
                   <Image url="@../imagem1.png" />
